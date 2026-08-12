@@ -1,0 +1,6 @@
+{
+  "name": "Website Template",
+  "description": "A website template featuring a 25% height top banner with cycling images and left logo, responsive sections, and interactive customizer controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
